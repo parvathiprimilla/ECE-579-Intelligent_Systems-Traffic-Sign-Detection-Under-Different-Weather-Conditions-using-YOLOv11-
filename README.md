@@ -10,8 +10,6 @@ This repository contains code and materials for a **Traffic Sign Detection** pro
 This repository is a **fork of the original project repository** created for a **group-based university course project**.  
 It is maintained here **for academic reference, personal learning, experimentation, and portfolio purposes**.
 
-All original authorship, credit and license from the upstream repository are fully preserved.
-
 ---
 
 ## Traffic Sign Detection Under Different Weather Conditions
