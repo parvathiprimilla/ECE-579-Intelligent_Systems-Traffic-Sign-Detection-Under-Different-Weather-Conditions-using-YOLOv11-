@@ -147,14 +147,6 @@ pip install -r requirements.txt
 - [Ultralytics YOLO](https://github.com/ultralytics/ultralytics)
 - OpenCV
 - Albumentations
-
----
-
-## 🔗 Original Repository
-
-This is a **fork of the original project repository** by Hemanth Katikala Muniraj:  
-[Original Repository](https://github.com/Hemanth-Katikala-Muniraj/Traffic-Sign-Detection-Under-Different-Weather-Conditions-using-YOLOv11-)
-
 ---
 
 ## Usage & Attribution
