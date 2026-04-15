@@ -44,16 +44,6 @@ This fork is maintained to support experimentation, learning, and portfolio demo
 
 ---
 
-### **Hemanth Katikala Muniraj**
-🔧 **Technical Contributions:**
-- Led **dataset collection and preprocessing** for traffic sign images
-- Configured and trained the **YOLOv11 model** with custom parameters
-- Set up the **training pipeline** using PyTorch and Ultralytics framework
-- Implemented **inference scripts** for real-time detection
-- Integrated **OpenCV** for image processing and visualization
-
----
-
 ## 🧠 Overview
 - **Course:** ECE 579 - Intelligent Systems
 - **Model:** YOLOv11
